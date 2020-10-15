@@ -4,7 +4,7 @@ A simple package to dectect mobile browser ventor and version(`detector.browser`
 
 Mostly I suggest you to detect feature instend of browser ventors or version. But sometimes, there is no other way, and not even good modern browsers provide good feature detection mechanisms.
 
-[live demo](https://codesandbox.io/s/ua-detector-jmqu8)
+[live demo](https://codesandbox.io/s/ua-detector-demo-kxlw0)
 
 ## Usage
 
