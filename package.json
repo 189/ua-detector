@@ -2,7 +2,7 @@
   "name": "ua-detector",
   "description": "Dectect mobile browser ventor and version",
   "main": "lib/index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "build": "tsc -w"
   },
