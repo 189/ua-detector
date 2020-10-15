@@ -1,6 +1,8 @@
 # ua-detector
 
-A simple package to dectect mobile browser ventor and version. Mostly I suggest you to detect feature instend of browser ventors or version. But sometimes, there is no other way, and not even good modern browsers provide good feature detection mechanisms.
+A simple package to dectect mobile browser ventor and version(`detector.browser`), and also detect device operation system(`detector.os`).
+
+Mostly I suggest you to detect feature instend of browser ventors or version. But sometimes, there is no other way, and not even good modern browsers provide good feature detection mechanisms.
 
 [live demo](https://codesandbox.io/s/ua-detector-jmqu8)
 
